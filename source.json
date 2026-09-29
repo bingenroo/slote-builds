@@ -1,0 +1,25 @@
+{
+  "name": "Slote (wip)",
+  "identifier": "io.slote.wip",
+  "apps": [
+    {
+      "name": "Slote",
+      "bundleIdentifier": "io.slote",
+      "developerName": "Slote",
+      "localizedDescription": "Development builds from the wip branch.",
+      "iconURL": "https://raw.githubusercontent.com/bingenroo/slote-builds/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1898",
+          "date": "2026-09-29T16:28:37Z",
+          "downloadURL": "https://github.com/bingenroo/slote-builds/releases/download/b1898/Slote.ipa",
+          "size": 22867070,
+          "minOSVersion": "14.0",
+          "localizedDescription": "wip @ 32133772"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
