@@ -11,12 +11,12 @@
       "versions": [
         {
           "version": "0.0.1",
-          "buildVersion": "1899",
-          "date": "2026-09-30T00:51:47Z",
-          "downloadURL": "https://github.com/bingenroo/slote-builds/releases/download/b1899/Slote.ipa",
-          "size": 22867070,
+          "buildVersion": "1900",
+          "date": "2026-10-03T06:17:57Z",
+          "downloadURL": "https://github.com/bingenroo/slote-builds/releases/download/b1900/Slote.ipa",
+          "size": 22869172,
           "minOSVersion": "14.0",
-          "localizedDescription": "wip @ 5a2fd134"
+          "localizedDescription": "wip @ 96c30009"
         }
       ]
     }
