@@ -10,13 +10,13 @@
       "iconURL": "https://raw.githubusercontent.com/bingenroo/slote-builds/main/icon.png",
       "versions": [
         {
-          "version": "0.0.1902",
-          "buildVersion": "1902",
-          "date": "2026-10-03T08:04:12Z",
-          "downloadURL": "https://github.com/bingenroo/slote-builds/releases/download/b1902/Slote.ipa",
-          "size": 22868878,
+          "version": "0.0.1903",
+          "buildVersion": "1903",
+          "date": "2026-10-03T08:10:02Z",
+          "downloadURL": "https://github.com/bingenroo/slote-builds/releases/download/b1903/Slote.ipa",
+          "size": 22874147,
           "minOSVersion": "14.0",
-          "localizedDescription": "wip @ e9b8a13b"
+          "localizedDescription": "wip @ fd8b237a"
         }
       ]
     }
